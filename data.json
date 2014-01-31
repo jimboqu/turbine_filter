@@ -1,0 +1,875 @@
+[
+
+	
+{	
+	"make": "Acciona AW-77/1500",
+    "power": "1500 kW",
+    "rotor": "77m",
+    "windclass": "IEC IIa medium",
+    "offOn" : "Onshore",
+    "info" : "Offshore. Being tested on the Bimep floating trial in Spain."
+    },
+
+{
+	"make":"Acciona AW-82/1500",
+	"power":"1500kW",
+	"rotor":"82m",
+	"windclass":"IEC IIIb low",
+	"offOn" : "Onshore",
+	"info":"A large number of these turbines are located in China."
+   },
+{
+	"make":"Acciona AW3000-100",
+	"power":"3000kW",
+	"rotor":"100m",
+	"windclass":"IEC Ia high",
+	"offOn" : "Onshore",
+	"info":"A recent addition to the Acciona range"
+   },
+{
+	"make":"Acciona AW3000-109",
+	"power":"3000kW",
+	"rotor":"109m",
+	"windclass":"IEC IIa medium",
+	"offOn" : "Onshore",
+	"info":"Supplanted by the 116m version version"
+	},
+{
+	"make":"Acciona AW3000-116",
+	"power":"3000kW",
+	"rotor":"116m",
+	"windclass":"IEC II medium",
+	"offOn" : "Onshore",
+	"info":"Launched in 2010, it had one of the largest rotors of its class."
+	},
+{
+	"make":"Alstom ECO-80",
+	"power":"1670kW",
+	"rotor":"80m",
+	"windclass":"IEC IIa medium",
+	"offOn" : "Onshore",
+	"info":"Supplanted by larger ECO100 machine. Alstom has cut manufacturing capacity for this turbine."
+	},
+{
+	"make":"Alstom ECO-86",
+	"power":"1670kW",
+	"rotor":" 85.5m",
+	"windclass":"IEC IIIa low",
+	"offOn" : "Onshore",
+	"info":"Supplanted by larger ECO100 machine. Alstom has cut manufacturing capacity for this platform."
+	},
+{
+      "make":"Alstom ECO-122",
+      "power":"3000kW",
+      "rotor":"122m",
+      "windclass":"IEC IIIa low",
+      "offOn" : "Onshore",
+      "info":"The latest onshore addition to the Alstom range. "
+   },
+{
+	"make":"Alstom ECO-100",
+	"power":"3000kW",
+	"rotor":"100.8m",
+	"windclass":"IEC Ia high",
+	"offOn" : "Onshore",
+	"info":"In 2012, Alstom won huge orders for this machine in Brazil."
+	},
+{
+	"make":"Alstom ECO-110",
+	"power":"3000kW",
+	"rotor":"109.8m",
+	"windclass":"IEC IIa",
+	"offOn" : "Onshore",
+	"info":"Developer in 2010, with 53m blades. A sister model to the ECO-100."
+	},
+{
+	"make":"Alstom Haliade 150",
+	"power":"6000kW",
+	"rotor":"150m",
+	"windclass":"IECI high",
+	"offOn" : "Offshore",
+	"info":"Alstom's offshore model currently being tested and set for the French and UK markets."
+	},
+	{
+        "make": "Areva M5000",
+        "power": "5000kW",
+        "rotor": "116m",
+        "windclass": "IEC Ia high",
+        "offOn" : "Offshore",
+        "info": "Based on Multibrid design. Rated at 12.5 m/s."
+    },
+     {
+        "make": "Areva M5000",
+        "power": "5000kW",
+        "rotor": "135m",
+        "windclass": "IEC Ib high",
+        "offOn" : "Offshore",
+        "info": "Based on Multibrid design. Rated at 11.5 m/s."
+    },
+{
+	"make":"Bard 5.0",
+	"power":"5000kW",
+	"rotor":"122m",
+	"windclass":"IEC I high",
+	"offOn" : "Offshore",
+	"info":"An offshore model by an offshore specialist. One of the few turbines in this class with a decent service record thanks to installation at the Bard 1 wind farm. Designed for 12.5 m/s"
+   },
+{
+	"make":"Clipper Liberty C100",
+	"power":"2500kW",
+	"rotor":"100m",
+	"windclass":"IECII medium",
+	"offOn" : "Onshore",
+	"info":"Notable for having four generators of 660kW. Sadly, Clipper no longer makes wind turbines."
+	},
+	
+	{
+      "make":"Dongfang DF70-1500",
+      "power":"1500kW",
+      "rotor":"70m",
+      "windclass":"IEC I high",
+      "offOn" : "Onshore",
+      "info":"Designed by Garrad Hassan. "
+   },
+  {
+      "make":"Dongfang DF5500",
+      "power":"5500kW",
+      "rotor":"?",
+      "windclass":"IEC I high",
+      "offOn" : "Offshore",
+      "info":"Designed with AMSC. "
+   },
+
+{
+	"make":"Enercon  E101 ",
+	"power":"3050kW",
+	"rotor":"101m",
+	"windclass":"IEC IIa medium",
+	"offOn" : "Onshore",
+	"info":"Direct drive. Comes with either a 99- or 135-metre hub height. Enercon says it can be used in low wind conditions."
+	},
+{
+	"make":"Enercon E115",
+	"power":"2500kW",
+	"rotor":"115m",
+	"windclass":"IEC IIIA low ",
+	"offOn" : "Onshore",
+	"info":"Direct Drive. Comes with a 149-m tower."
+	},
+{
+	"make":"Enercon E126",
+	"power":"7580kW",
+	"rotor":"127m",
+	"windclass":"IEC IA high",
+	"offOn" : "Onshore",
+	"info":"The world's biggest wind turbine, still. Very few in existence, mostly installed in Holland and Germany."
+	},
+{
+	"make":"Enercon E44",
+	"power":"900kW",
+	"rotor":"44m",
+	"windclass":"IEC IA high",
+	"offOn" : "Onshore",
+	"info":"  "
+	},
+{
+	"make":"Enercon E53",
+	"power":"800kW",
+	"rotor":"52.9m",
+	"windclass":"IEC II medium",
+	"offOn" : "Onshore",
+	"info":"  "
+	},
+{
+	"make":"Enercon E70",
+	"power":"2300kW",
+	"rotor":"70m",
+	"windclass":"IEC I/II high medium ",
+	"offOn" : "Onshore",
+	"info":"  "
+	},
+{
+	"make":"Enercon E82",
+	"power":"2000kW",
+	"rotor":"82m",
+	"windclass":"IEC II medium",
+	"offOn" : "Onshore",
+	"info":"  "
+	},
+	
+	{
+	"make":"Enercon E82",
+	"power":"2300kW",
+	"rotor":"82m",
+	"windclass":"IEC II medium",
+	"offOn" : "Onshore",
+	"info":"  "
+	},
+{
+	"make":"Enercon E82",
+	"power":"3000kW",
+	"rotor":"82m",
+	"windclass":"IEC Ia IIa high medium",
+	"offOn" : "Onshore",
+	"info":"  "
+   },
+   {
+      "make":"Enercon E92",
+      "power":"2350kW",
+      "rotor":"92m",
+      "windclass":"IEC IIa medium",
+      "offOn" : "Onshore",
+      "info":"Comes in hub height of up to 138m"
+   },
+   
+   {
+      "make":"Fuhrlander FL 2500",
+      "power":"2500kW",
+      "rotor":"100m",
+      "windclass":" IEC IIa medium",
+      "offOn" : "Onshore",
+      "info":" Hub height: 85 / 100 / 117m/ 141m/ 160m "
+   },
+   {
+      "make":"Fuhrlander FL 2500",
+      "power":"2500kW",
+      "rotor":"90m",
+      "windclass":" IEC II medium",
+      "offOn" : "Onshore",
+      "info":"Hub height: 85 / 100 / 117m/ 141m/ 160m"
+   },
+   {
+      "make":"Fuhrlander FL 2500",
+      "power":"2500kW",
+      "rotor":"104m",
+      "windclass":" IEC IIIa low",
+      "offOn" : "Onshore",
+      "info":" Hub height: 85 / 100 / 117m/ 141m/ 160m "
+   },
+   {
+      "make":"Fuhrlander FL 3000/120",
+      "power":"3000kW",
+      "rotor":"120m",
+      "windclass":"IEC IIa medium",
+      "offOn" : "Onshore",
+      "info":"Still in development"
+   },
+    {
+      "make":"Gamesa G128/4500",
+      "power":"4500kW",
+      "rotor":"128m",
+      "windclass":"IEC IIa medium",
+      "offOn" : "Onshore",
+      "info":"Tower heights of 81, 95, 120 and 140m "
+   },
+   {
+      "make":"Gamesa G128/5000",
+      "power":"4500 kW",
+      "rotor":"128 m",
+      "windclass":"IEC I high",
+      "offOn" : "Offshore and onshore",
+      "info":"Gamesa's first offshore wind turbine. Prototype in testing."
+      },      
+      {
+      "make":"Gamesa G14X/7000",
+      "power":"7000 kW",
+      "rotor":"145 m",
+      "windclass":"IECI high",
+      "offOn" : "Offshore",
+      "info":"In development. Prototype set for 2015."
+      }, 
+	
+      {
+         "make":"Gamesa G52/850",
+         "power":"850kW",
+         "rotor":"52m",
+         "windclass":"IEC Ia high",
+         "offOn" : "Onshore",
+         "info":"Developed from Vestas V52 design."
+      },
+      {
+         "make":"Gamesa G97/2000",
+         "power":"2000kW",
+         "rotor":" 97m",
+         "windclass":"IEC IIIa low",
+         "offOn" : "Onshore",
+         "info":"Tower: 78, 90 m (120 m tower height under development) "
+      },
+      {
+         "make":"General Electric (GE) 1.5xle",
+         "power":"1500kW",
+         "rotor":"82.5m",
+         "windclass":"IEC IIIb low",
+         "offOn" : "Onshore",
+         "info":"Comes in an 80m hub height "
+      },
+      {
+         "make":"General Electric (GE) 1.6",
+         "power":"1600kW",
+         "rotor":"100m",
+         "windclass":"IEC III low",
+         "offOn" : "Onshore",
+         "info":"Successor to the 1.5. The turbine of choice in the US."
+      },
+      
+      {
+         "make":"General Electric (GE) 1.7",
+         "power":"1700kW",
+         "rotor":"100m",
+         "windclass":"IEC III low",
+         "offOn" : "Onshore",
+         "info":"In development. Part of the so-called Brilliant range."
+      },
+      {
+         "make":"General Electric (GE) 4.1",
+         "power":"4100kW",
+         "rotor":"113m",
+         "windclass":"IEC Ib high",
+         "offOn" : "Offshore",
+         "info":"Offshore model. In testing but unlikely to go to production."
+      },
+      {
+         "make":"General Electric (GE) 2.75",
+         "power":"2750kW",
+         "rotor":"103m and 100m",
+         "windclass":"IEC II III low medium",
+         "offOn" : "Onshore",
+         "info":"Towers: 75m (50 Hz only), 85m, and 98.3m "
+      },
+      {
+         "make":"General Electric (GE) 2.5",
+         "power":"2500kW",
+         "rotor":"120m",
+         "windclass": "IEC IIIa low",
+         "offOn" : "Onshore",
+         "info":"Second so-called Brilliant turbine. Battery storage. In testing in the Netherlands."
+      },
+      {
+         "make":"General Electric (GE) 2.5-100",
+         "power":"2500kW",
+         "rotor":"100m",
+         "windclass":"IEC II medium",
+         "offOn" : "Onshore",
+         "info":"  "
+      },
+      {
+         "make":"Goldwind GW87/1500",
+         "power":"1500kW",
+         "rotor":"87m",
+         "windclass":"IEC IIIa low",
+         "offOn" : "Onshore",
+         "info":"Based on Vensys design. Direct drive"
+      },
+      {
+         "make":"Goldwind GW100/2500",
+         "power":"2500kW",
+         "rotor":"100m",
+         "windclass":"IEC IIIa low",
+         "offOn" : "Onshore",
+         "info":"Based on Vensys design. Direct drive"
+      },
+      {
+         "make":"Goldwind GW109/2500",
+         "power":"2500kW",
+         "rotor":"109m",
+         "windclass":"IEC IIa/ IIIa medium low",
+         "offOn" : "Onshore",
+         "info":"Based on Vensys design. Direct drive"
+      },
+      
+      {
+         "make":"Goldwind GW121/2500",
+         "power":"2500kW",
+         "rotor":"121m",
+         "windclass":"IEC III low",
+         "offOn" : "Onshore",
+         "info":"Based on Vensys design. Direct drive"
+      },
+      {
+         "make":"Goldwind G6000",
+         "power":"6000kW",
+         "rotor":"unknown",
+         "windclass":"unknown",
+         "offOn" : "Offshore",
+         "info":"In development"
+      },
+      {
+         "make":"Guodian United Power  UP100-DD",
+         "power":"3000kW",
+         "rotor":"100m",
+         "windclass":"IEC IIa IIIa medium low",
+         "offOn" : "Onshore",
+         "info":" "
+      },
+      {
+         "make":"Guodian United Power UP6000",
+         "power":"6000kW",
+         "rotor":"136m",
+         "windclass":"IEC I high",
+         "offOn" : "Offshore",
+         "info":"  "
+      },
+     {
+         "make":"Guodian United Power UP82-IIa",
+         "power":"1500kW",
+         "rotor":"82.76m",
+         "windclass":"IEC III low",
+         "offOn" : "Onshore",
+         "info":"Currently in testing in CHina. Uses a DFIG."
+      },
+      {
+         "make":"Mingyang MY1.5sh",
+         "power":"1500kW",
+         "rotor":"82.6m",
+         "windclass":"IEC II medium",
+         "offOn" : "Onshore",
+         "info":"  "
+      },
+      {
+         "make":"Mingyang SCD2500/100",
+         "power":"2500kW",
+         "rotor":"100m",
+         "windclass":"IEC III low",
+         "offOn" : "Onshore",
+         "info":"Two-bladed turbine designed by Aerodyn."
+      },
+      {
+         "make":"Mingyang SCD3000/108",
+         "power":"3000kW",
+         "rotor":"108m",
+         "windclass":"IEC III low",
+         "offOn" : "Offshore",
+         "info":"Two-bladed turbine designed by Aerodyn."
+      },
+     
+      
+ 
+      {
+         "make":"Hyundai HQ5500/127",
+         "power":"5500kW",
+         "rotor":"127m",
+         "windclass":"IEC Ib high",
+         "offOn" : "Offshore",
+         "info":"Under development. Uses AMSC technology."
+      },
+      {
+         "make":"Hyundai HQ2000/93",
+         "power":"2000kW",
+         "rotor":"93m",
+         "windclass":"IEC IIIb low",
+         "offOn" : "Onshore",
+         "info":"  "
+      },
+      {
+         "make":"Impsa IWP 100 2000",
+         "power":"2000kW",
+         "rotor":"100m",
+         "windclass":"IEC S high",
+         "offOn" : "Onshore",
+         "info":"  "
+      },
+        {
+         "make":"Impsa IWP 70 1800",
+         "power":"1800kW",
+         "rotor":"80m",
+         "windclass":"IEC I high",
+         "offOn" : "Onshore",
+         "info":"  "
+      },
+		{
+        "make": "Leitwind IWP-83-2100",
+        "power": " 2100kW",
+        "rotor": "83m",
+        "windclass": "IEC II medium",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+      {
+         "make":"Impsa IWP 100 2100",
+         "power":"2100kW",
+         "rotor":"83m",
+         "windclass":"IEC SII medium",
+         "offOn" : "Onshore",
+         "info":"  "
+      },
+    {
+        "make": "Leitwind LTW104-2500",
+        "power": "2500kW",
+        "rotor": "104.1m",
+        "windclass": "IEC IIa medium",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Leitwind LTW80-1500",
+        "power": "1500kW",
+        "rotor": "80.3m",
+        "windclass": "IEC IIa medium",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Mitsubishi  MWT-92",
+        "power": "2400kW",
+        "rotor": "92m",
+        "windclass": "IEC IIa medium",
+        "offOn" : "Onshore",
+        "info": "The infamous platform at the centre of legal battle between GE and MHI over dispute LVRT tech"
+    },
+    {
+        "make": "Mitsubishi MWT-95",
+        "power": "2400kW",
+        "rotor": " 95m",
+        "windclass": "IEC IIa medium",
+        "offOn" : "Onshore",
+        "info": "The infamous platform at the centre of legal battle between GE and MHI over dispute LVRT tech "
+    },
+    {
+        "make": "Mitsubishi SeaAngel",
+        "power": "7000kW",
+        "rotor": "162m",
+        "windclass": "IEC Ib high",
+        "offOn" : "Offshore",
+        "info": "Prototypes set for UK and Japan in 2013."
+    },
+    
+    {
+        "make": "Nordex N100/2500",
+        "power": "2500kW",
+        "rotor": "100m",
+        "windclass": "IEC IIIa low (DIBt 2)",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Nordex N117/2400",
+        "power": "2400kW",
+        "rotor": "117m",
+        "windclass": "IEC III low",
+        "offOn" : "Onshore",
+        "info": "Major low wind turbine for Nordex."
+    },
+     {
+        "make": "Nordex N117/3000",
+        "power": "3000kW",
+        "rotor": "117m",
+        "windclass": "IEC II medium",
+        "offOn" : "Onshore",
+        "info": "Most recent turbine. Part of the Delta platform."
+    },
+      {
+        "make": "Nordex N100/3000",
+        "power": "3000kW",
+        "rotor": "117m",
+        "windclass": "IEC I high",
+        "offOn" : "Onshore",
+        "info": "Part of the Delta platform."
+    },
+    {
+        "make": "Repower 3.2M114",
+        "power": "3200kW",
+        "rotor": "114m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Onshore",
+        "info": "The turbine comes in a hub height of 143m."
+    },
+    {
+        "make": "Repower 3.4M104",
+        "power": "3400kW",
+        "rotor": "104m",
+        "windclass": "IEC IIa medium",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Repower 5M",
+        "power": "5000kW",
+        "rotor": "126m",
+        "windclass": "IEC Ib high",
+        "offOn" : "Offshore",
+        "info": "Being replaced by the 6M."
+    },
+    {
+        "make": "Repower 6M",
+        "power": "6010kW",
+        "rotor": "126m",
+        "windclass": "IEC Ib high",
+        "offOn" : "Offshore",
+        "info": "The offshore turbine until the end of the decade for Repower."
+    },
+    {
+        "make": "Repower MM82",
+        "power": "2000kW",
+        "rotor": "82m",
+        "windclass": "IEC Ia high",
+        "offOn" : "Onshore",
+        "info": "Most popular onshore product for Repower."
+    },
+    {
+        "make": "Repower MM92/2050",
+        "power": "2050kW",
+        "rotor": "92m",
+        "windclass": "IEC IIa/IEC IIIa medium low",
+        "offOn" : "Onshore",
+        "info": "The 2MW turbine is a popular platform for Repower."
+    },
+    {
+		"make": "Samsung S7.0-171",
+		"power": "7000KW",
+		"rotor": "171m",
+		"windclass": "IEC IA high",
+		"offOn": "offshore",
+		"info": "This turbine features the largest blade in the world. Currently in development"
+	},
+    {
+        "make": "Sany SE9320III-S3",
+        "power": "2000kW",
+        "rotor": "93m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Onshore",
+        "info": "Attempted to export to the US via disputed Oregon projects, cancelled by US government."
+    },
+    {
+        "make": "Shanghai Electric W3600/122",
+        "power": "3600kW",
+        "rotor": "122m",
+        "windclass": "IEC IIIb low",
+        "offOn" : "Onshore",
+        "info": " "
+    },
+    {
+        "make": "Siemens SWT-6.0-154",
+        "power": " 6000kW",
+        "rotor": "154m",
+        "windclass" : "IEC Ib high",
+        "offOn" : "Offshore",
+        "info": "offshore model"
+    },
+    {
+        "make": "Siemens SWT-6.0-120",
+        "power": "6000kW",
+        "rotor": "120m",
+        "windclass" : "IEC Ia high",
+        "offOn" : "Offshore",
+        "info": "offshore model"
+    },
+    {
+        "make": "Siemens SWT-4.0-130",
+        "power": "4000kW",
+        "rotor": "130m",
+        "windclass": "IEC Ia high",
+        "offOn" : "Offshore",
+        "info": "New version of the 3.6MW"
+    },
+    {
+        "make": "Siemens SWT-3.6-120",
+        "power": " 3600 kW",
+        "rotor": "120m",
+        "windclass": "IEC Ib high",
+        "offOn" : "Offshore",
+        "info": "The workhorse of the offshore sector."
+    },
+    {
+        "make": "Siemens SWT-3.0-108",
+        "power": " 3000kW",
+        "rotor": "108m",
+        "windclass": "IEC Ib/IIa high medium",
+        "offOn" : "Offshore and onshore",
+        "info": "Notable as Siemens' first direct drive turbine."
+    },
+    {
+        "make": "Siemens SWT-2.5-108",
+        "power": "2500kW",
+        "rotor": "108m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Offshore and onshore",
+        "info": "Developed specifically for China."
+    },
+    {
+        "make": "Siemens SWT-2.3-113",
+        "power": "2300kW",
+        "rotor": "113m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Onshore",
+        "info": "Developed in mid-2000s and still a staple onshore turbine for Siemens."
+    },
+    {
+        "make": "Siemens  SWT-2.3-108",
+        "power": "2300kW",
+        "rotor": "108m",
+        "windclass": "IEC IIa medium",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Sinovel FL1500/77",
+        "power": "1500kW",
+        "rotor": "77m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Onshore",
+        "info": "Based on a Fuhrlander design."
+    },
+    {
+        "make": "Sinovel SL3000/113",
+        "power": "3000kW",
+        "rotor": "113m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Offshore onshore",
+        "info": "In place in at Rudong demo project."
+    },
+    {
+        "make": "Sinovel  SL6000",
+        "power": "6000kW",
+        "rotor": "128m",
+        "windclass": "IEC Ia high",
+        "offOn" : "Offshore",
+        "info": "A question remains over the turbine following the battle between Sinovel and former supplier AMSC over IP theft. AMSC produced a large proportion of the electronics on the turbine."
+    },
+    {
+        "make": "Sinovel SL5000",
+        "power": "5000kW",
+        "rotor": "128m",
+        "windclass": "IEC I high",
+        "offOn" : "Onshore",
+        "info": ""
+    },
+    {
+        "make": "Suzlon S88/2250",
+        "power": "2250kW",
+        "rotor": "88m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Suzlon  S97/2100",
+        "power": "2100kW",
+        "rotor": "97m",
+        "windclass": "IEC IIIA low",
+        "offOn" : "Onshore",
+        "info": "The S9X range is the latest Suzlon platform."
+    },
+    {
+        "make": "Suzlon  S95/2100",
+        "power": "2100kW",
+        "rotor": "95m",
+        "windclass": "IEC IIA medium",
+        "offOn" : "Onshore",
+        "info": "The S9X range is the latest Suzlon platform."
+    },
+    {
+        "make": "Vergnet GEV HP 1000/62",
+        "power": "1000kW",
+        "rotor": " 62m",
+        "windclass": "IEC III low",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Vestas V100/1800",
+        "power": "1800kW",
+        "rotor": "100m",
+        "windclass": "IEC IIIa low",
+        "offOn" : "Onshore",
+        "info": "Big in the US market."
+    },
+    {
+        "make": "Vestas  V100/2000",
+        "power": "2000kW",
+        "rotor": "100m",
+        "windclass": "IEC IIA medium",
+        "offOn" : "Onshore",
+        "info": "A new version in the pipeline."
+    },
+    {
+        "make": "Vestas  V110/2000",
+        "power": "2000kW",
+        "rotor": "110m",
+        "windclass": "IEC IIIA low",
+        "offOn" : "Onshore",
+        "info": "New turbine for the US market."
+    },
+    {
+        "make": "Vestas V112/3000",
+        "power": "3075kW",
+        "rotor": "112m",
+        "windclass": "IEC II/III medium low",
+        "offOn" : "Offshore onshore",
+        "info": "A new version of the V112 3MW platform."
+    },
+    {
+        "make": "Vestas V117/3300",
+        "power": "3300kW",
+        "rotor": "117m",
+        "windclass": "IEC IIA medium",
+        "offOn" : "Onshore",
+        "info": "Part of the V112 platform"
+    },
+    {
+        "make": "VestasV126/3000",
+        "power": "3000 kW",
+        "rotor": "126 m",
+        "windclass": "IEC IIIb low",
+        "offOn" : "Onshore",
+        "info": "Low wind version of the 3MW platform."
+    },
+    {
+        "make": "Vestas V126/3300",
+        "power": "3300 kW",
+        "rotor": "126 m",
+        "windclass": "IEC IIIA low",
+        "offOn" : "Onshore",
+        "info": ""
+    },
+    {
+        "make": "Vestas V164/8000",
+        "power": "8000kW",
+        "rotor": "164m",
+        "windclass": "IEC S high",
+        "offOn" : "Offshore",
+        "info": "In development with a view to bringing out a prototype next year."
+    },
+    {
+        "make": "Vestas V90/1800",
+        "power": "1800 kW",
+        "rotor": "90m",
+        "windclass": "IEC II medium",
+        "offOn" : "Onshore",
+        "info": "Being superceded by the V112 but still big in Europe."
+    },
+    {
+        "make": "Vestas V90/2000",
+        "power": "2000kW",
+        "rotor": "90m",
+        "windclass": "IEC III low",
+        "offOn" : "Onshore",
+        "info": "  "
+    },
+    {
+        "make": "Vestas V90/3000",
+        "power": "3000kW",
+        "rotor": "90m",
+        "windclass": "IEC II/III medium low",
+        "offOn" : "Onshore offshore",
+        "info": "Being replaced by the V112"
+    },
+    {
+        "make": "XEMC XE82-2000",
+        "power": "2000kW",
+        "rotor": "82m",
+        "windclass": " IEC IIb medium",
+        "offOn" : "Onshore",
+        "info": "  "
+    }
+    
+		
+]
+
+
+
+
+
+
+
+
+
